@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="\assets/banner.png" alt="Miguel Angel Villa - Backend Developer" width="100%" />
+  <img src="assets/banner.png" alt="Miguel Angel Villa - Backend Developer" width="100%" />
 </p>
 
 # ¡Hola! Soy Miguel Ángel Villa Huertas 👋
