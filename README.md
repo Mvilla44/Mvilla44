@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Miguel Angel Villa - Backend Developer" width="100%" />
+</p>
+
 # ¡Hola! Soy Miguel Ángel Villa Huertas 👋
 
 Ingeniero de Sistemas y Desarrollador Backend, enfocado en construir soluciones sólidas con **Java** y **PHP**. Actualmente en búsqueda de oportunidades laborales y proyectos freelance.
